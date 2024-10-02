@@ -1,2 +1,5 @@
-BMMS FTC ROBOTICS - TECH EMPIRE - README
-add stuff later
+the actual, final, real github repo for...
+<br>
+<b> BMMS TECH EMPIRE - 2024 </b>
+<br>
+INTO THE DEEP
